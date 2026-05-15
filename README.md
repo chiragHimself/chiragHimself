@@ -8,8 +8,8 @@
 
 <h2 align="left">About me</h2>
 
-##### I am a sophomore in Information Technology with a deep passion for developing AI and Machine Learning applications. Over the years, I've built several chatbots and computer vision-based projects, showcasing my ability to create innovative solutions using cutting-edge technology.
-
+##### Agentic AI & Backend Engineer | Final Year B.Tech IT
+Building scalable multi-agent AI workflows, automated LLM pipelines, and robust backend infrastructure. Turning complex data into production-ready intelligence.
 <p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning AI Agents and ML Ops<br>🎯 Goals: Software/AI Engineer  <br>🎲 Fun fact: I can box haha 🥊</p>
 
 ###
